@@ -1,0 +1,14 @@
+/*************************************tag selectors*******************/
+h1 {
+    color: #A73489;
+    font-style: italic;
+}
+/***************************************class selectors*******************/
+.bacon {
+    background-color: rgb(0, 255, 140);
+}
+
+/**********************************id selectors*******************************/
+#heading{
+    background-color: blueviolet;
+}
